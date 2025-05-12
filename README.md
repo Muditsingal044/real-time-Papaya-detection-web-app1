@@ -77,7 +77,8 @@ This project can be deployed to a web server for public access. For more informa
 
 - [ONNXRuntime](https://onnxruntime.ai/) - An open-source project for running inferences using pre-trained models in a variety of formats.
 - [YOLOv10](https://github.com/THU-MIG/yolov10) - An Object detection model which is used in this project.
-- [YOLOv7](https://github.com/WongKinYiu/yolov7) - An Object detection model which is used in this project.
+- [YOLOv9](https://github.com/WongKinYiu/yolov9) - An Object detection model which is used in this project.
+- [YOLOv8](https://github.com/WongKinYiu/yolov8) - An Object detection model which is used in this project.
 - [Next.js](https://nextjs.org/) - A JavaScript framework for building server-rendered React applications.
 - [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) - A progressive web app that can be installed on a user's device and run offline, providing a native-like experience.
 
@@ -97,9 +98,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 - Thank you to [@ultralytics](https://github.com/ultralytics) for the easy configuration of YOLOv10 model.
 
-- Thank you to [@THU-MIG] (https://github.com/THU-MIG) for creating [YOLOv10](https://github.com/THU-MIG/yolov10) model.
-
-- Thank you to [@WongKinYiu](https://github.com/WongKinYiu) for creating [YOLOv7](https://github.com/WongKinYiu/yolov7) model.
+- Thank you to [@ultralytics](https://github.com/ultralytics) for the easy configuration of YOLOv9 model.
+ 
+- Thank you to [@ultralytics](https://github.com/ultralytics) for the easy configuration of YOLOv8 model.
 
 - Hats off to the ONNXRuntime team for making such a powerful tool accessible to developers.
 
@@ -107,32 +108,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 - Thank you to all the contributors to the open-source libraries used in this project.
 
-- Inspiration for this project was taken from my previous project [AnimeArcaneGAN_Mobile](https://github.com/Muditsingal044/AnimeArcaneGAN_Mobile)
 
-## Citation for YOLOv10
 
-```
-
-@article{THU-MIGyolov10,
-title={YOLOv10: Real-Time End-to-End Object Detection},
-author={Ao Wang, Hui Chen, Lihao Liu, et al.},
-journal={arXiv preprint arXiv:2405.14458},
-year={2024},
-institution={Tsinghua University},
-license = {AGPL-3.0}
-}
-
-```
-
-## Citation for YOLOv7
-
-```
-
-@article{wang2022yolov7,
-title={{YOLOv7}: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors},
-author={Wang, Chien-Yao and Bochkovskiy, Alexey and Liao, Hong-Yuan Mark},
-journal={arXiv preprint arXiv:2207.02696},
-year={2022}
-}
-
-```
