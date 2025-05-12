@@ -26,13 +26,13 @@ In order to run this project, you will need to have the following software insta
 1. Clone the repository to your local machine:
 
 ```
-https://github.com/juanjaho/real-time-object-detection-web-app.git
+https://github.com/Muditsingal044/real-time-object-detection-web-app1.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd real-time-object-detection-web-app
+cd real-time-object-detection-web-app1
 ```
 
 3. Install the necessary dependencies by running:
@@ -87,7 +87,7 @@ If you want to contribute to this project, please feel free to submit a pull req
 
 ## Authors
 
-Juan Sebastian - Initial work - [@juanjaho](https://github.com/juanjaho)
+Mudit Singal - Initial work - [@Muditsingal044](https://github.com/Muditsingal044)
 
 ## License
 
@@ -107,7 +107,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 - Thank you to all the contributors to the open-source libraries used in this project.
 
-- Inspiration for this project was taken from my previous project [AnimeArcaneGAN_Mobile](https://github.com/juanjaho/AnimeArcaneGAN_Mobile)
+- Inspiration for this project was taken from my previous project [AnimeArcaneGAN_Mobile](https://github.com/Muditsingal044/AnimeArcaneGAN_Mobile)
 
 ## Citation for YOLOv10
 
