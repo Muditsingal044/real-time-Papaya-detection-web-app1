@@ -1,6 +1,6 @@
-# Real-time Object Detection Web App
+# Real-time Papaya Detection Web App
 
-This project is a web-based application that utilizes real-time object detection to identify and label objects within an image or video stream. It is built using Next.js, ONNXRuntime, YOLOv8, YOLOv9, and YOLOv10 model.
+This project is a web-based application that utilizes real-time Papaya detection to identify and label objects within an image or video stream. It is built using Next.js, ONNXRuntime, YOLOv8, YOLOv9, and YOLOv10 model.
 
 ## Demo at [RTOD.vercel.app](https://real-time-object-detection-web-app1.vercel.app/)
 
@@ -26,13 +26,13 @@ In order to run this project, you will need to have the following software insta
 1. Clone the repository to your local machine:
 
 ```
-https://github.com/Muditsingal044/real-time-object-detection-web-app1.git
+https://github.com/Muditsingal044/real-time-Papaya-detection-web-app1.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd real-time-object-detection-web-app1
+cd real-time-Papaya-detection-web-app1
 ```
 
 3. Install the necessary dependencies by running:
@@ -76,9 +76,9 @@ This project can be deployed to a web server for public access. For more informa
 ## Built With
 
 - [ONNXRuntime](https://onnxruntime.ai/) - An open-source project for running inferences using pre-trained models in a variety of formats.
-- [YOLOv10](https://github.com/THU-MIG/yolov10) - An Object detection model which is used in this project.
-- [YOLOv9](https://github.com/WongKinYiu/yolov9) - An Object detection model which is used in this project.
-- [YOLOv8](https://github.com/WongKinYiu/yolov8) - An Object detection model which is used in this project.
+- [YOLOv10](https://github.com/THU-MIG/yolov10) - An Papaya detection model which is used in this project.
+- [YOLOv9](https://github.com/WongKinYiu/yolov9) - An Papaya detection model which is used in this project.
+- [YOLOv8](https://github.com/WongKinYiu/yolov8) - An Papaya detection model which is used in this project.
 - [Next.js](https://nextjs.org/) - A JavaScript framework for building server-rendered React applications.
 - [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) - A progressive web app that can be installed on a user's device and run offline, providing a native-like experience.
 
